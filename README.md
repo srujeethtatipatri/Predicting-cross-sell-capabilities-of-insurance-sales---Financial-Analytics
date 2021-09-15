@@ -1,0 +1,2 @@
+# Predicting cross sell capabilities of insurance sales : Financial Analytics
+ By making use of machine learning and deep learning models, we are aiming to develop and train a model    for predicting the cross-sell capabilities of multiple insurance policies. Using the insurance data collected, we will be predicting whether a customer who opted for health insurance enrolls in vehicle insurance provided by the same
